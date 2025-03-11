@@ -1,11 +1,9 @@
-## Soft Skills
+### Soft Skills
+- Communication
 - Problem Solving
-- Team Collaboration
-- Quick Learner
-- Analytical Thinking
+- Adaptability
 
-## Interests
+### Personal Interests
 - Chess
-- Sketching
 - Photography
-- Poetry
+- Coding
