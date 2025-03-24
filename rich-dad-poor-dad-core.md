@@ -1,4 +1,4 @@
-# Rich Dad Poor Dad: 20% Key Learnings
+# Rich Dad Poor Dad
 
 ## 1. **Assets vs. Liabilities (Cash Flow Focus)**
 - **Formula**:  
