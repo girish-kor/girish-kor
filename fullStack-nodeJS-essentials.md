@@ -1,4 +1,4 @@
-# Full Stack Node.js Essentials (20% for 80% Mastery)
+# Full Stack Node.js Essentials 
 
 ## 1. Core Node.js Concepts
 - **Event Loop**: Non-blocking I/O model for handling async operations.
