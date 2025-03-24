@@ -1,4 +1,4 @@
-# React.js Core Concepts - The 20% That Delivers 80% Understanding
+# React.js Core Concepts 
 
 ## 1. Component-Based Architecture
 
