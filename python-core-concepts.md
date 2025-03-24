@@ -155,7 +155,3 @@
   - Capitalize ClassNames.
 
 ---
-
-**Save this as `Python_Essentials.md`**  
-_This covers ~80% of daily Python use cases. Practice these to build a strong foundation!_
-```
