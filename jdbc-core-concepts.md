@@ -1,4 +1,4 @@
-# JDBC Core Concepts - The 20% That Delivers 80% Understanding
+# JDBC Core Concepts 
 
 ## 1. What is JDBC?
 
