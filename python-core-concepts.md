@@ -1,4 +1,4 @@
-# Python Concepts (Essential 20%)
+# Python Concepts
 
 ## 1. Python Basics
 - Interpreted, dynamically typed, and garbage-collected language.
