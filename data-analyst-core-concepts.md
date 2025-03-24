@@ -1,4 +1,4 @@
-# Data Analyst Core Concepts - The 20% That Delivers 80% Understanding
+# Data Analyst Core Concepts 
 
 ## 1. Data Analysis Fundamentals
 
