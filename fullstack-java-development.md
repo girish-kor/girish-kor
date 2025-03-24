@@ -1,4 +1,4 @@
-# Full Stack Java Development - The 20% That Delivers 80% Understanding
+# Full Stack Java Development 
 
 ## 1. Java Backend Fundamentals
 
