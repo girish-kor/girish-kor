@@ -1,4 +1,4 @@
-# SQL Core Concepts - The 20% That Delivers 80% Understanding
+# SQL Core Concepts
 
 ## 1. What is SQL?
 
