@@ -122,5 +122,3 @@
 - Donate 1% of income/time to causes you care about.
 
 ---
-
-> **Pareto Principle (80/20) Summary**: Focus on mastering fundamentals, automating repetitive tasks, maintaining health, and building relationships. Avoid over-optimizing minor details.
