@@ -1,5 +1,4 @@
-```markdown
-# Rich Dad Poor Dad: 20% Key Learnings (Mathematically Calculated + Quotes) - Indian Context
+# Rich Dad Poor Dad
 
 ## 1. **Assets vs Liabilities**
 **Quote:** *"Rich people acquire assets. The poor and middle class acquire liabilities that they think are assets."*  
@@ -111,4 +110,3 @@ A = P × (1 + r/n)^(nt)
 3. Avoid **"status symbol" liabilities** (e.g., luxury cars).  
 4. Explore **rental income** in Tier 2 cities.  
 5. Prioritize **health insurance** to avoid medical debt.  
-``` 
