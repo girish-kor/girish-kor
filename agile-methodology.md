@@ -1,4 +1,6 @@
-# Agile Methodology: The 20% You Need to Know
+# Agile Methodology
+
+Agile is not just a methodology, but a mindset of collaboration, flexibility, and continuous improvement. Focus on understanding core principles and practical application.
 
 ## 1. What is Agile?
 - A flexible, iterative approach to project management and software development
@@ -160,9 +162,6 @@
 - Professional Scrum Master (PSM)
 - SAFe Agilist
 - PMI-ACP (Agile Certified Practitioner)
-
-## Conclusion
-Agile is not just a methodology, but a mindset of collaboration, flexibility, and continuous improvement. Focus on understanding core principles and practical application.
 
 ### Quick Start Guide
 1. Read the Agile Manifesto
