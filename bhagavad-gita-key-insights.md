@@ -1,4 +1,4 @@
-# Bhagavad Gita: Essential Learnings (80/20 Principle)
+# Bhagavad Gita
 
 ## Core Philosophical Foundations
 
