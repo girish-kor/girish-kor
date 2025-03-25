@@ -1,4 +1,6 @@
-# AWS Cloud Computing: The 20% You Need to Know
+# AWS Cloud Computing
+
+AWS provides a comprehensive cloud computing ecosystem. Focus on understanding core services, security principles, and hands-on practice to build expertise.
 
 ## 1. What is AWS?
 - Cloud computing platform provided by Amazon
@@ -151,9 +153,6 @@
 - Online courses
 - Hands-on labs
 - AWS re:Invent recordings
-
-## Conclusion
-AWS provides a comprehensive cloud computing ecosystem. Focus on understanding core services, security principles, and hands-on practice to build expertise.
 
 ### Quick Start Guide
 1. Create AWS Free Tier account
