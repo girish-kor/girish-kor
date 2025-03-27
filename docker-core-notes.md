@@ -1,4 +1,4 @@
-# Docker Core Learnings (20% Knowledge for 80% Understanding)
+# Docker Core Learnings
 
 ## 1. What is Docker?
 - Containerization platform
