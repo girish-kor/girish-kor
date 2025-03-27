@@ -1,4 +1,4 @@
-# PHP Essentials: 20% Knowledge for 80% Understanding
+# PHP Essentials:
 
 ## 1. Basic Syntax and Structure
 ```php
