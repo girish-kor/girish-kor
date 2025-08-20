@@ -23,7 +23,7 @@ With over **1 years** of experience in the industry, I specialize in modern web 
 
 ---
 
-## 🛠️ Tech Arsenal
+## TECH ARSENAL
 
 <div align="center">
 
@@ -49,10 +49,6 @@ With over **1 years** of experience in the industry, I specialize in modern web 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" />
 <br>Go
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />
-<br>Rust
 </td>
 </tr>
 </table>
@@ -95,10 +91,6 @@ With over **1 years** of experience in the industry, I specialize in modern web 
 <br>Node.js
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
 <br>Spring
 </td>
@@ -132,18 +124,6 @@ With over **1 years** of experience in the industry, I specialize in modern web 
 <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
 <br>Docker
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" />
-<br>Kubernetes
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" />
-<br>Jenkins
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub Actions" />
-<br>Actions
-</td>
 </tr>
 </table>
 
@@ -151,7 +131,7 @@ With over **1 years** of experience in the industry, I specialize in modern web 
 
 ---
 
-## 📊 GitHub Analytics
+## GITHUB ANALYTICS
 
 <div align="center">
 <table>
@@ -175,7 +155,7 @@ With over **1 years** of experience in the industry, I specialize in modern web 
 
 ---
 
-## 🏆 Achievements & Metrics
+## ARCHIEVEMENTS & METRICS
 
 <div align="center">
 
@@ -206,7 +186,7 @@ With over **1 years** of experience in the industry, I specialize in modern web 
 
 ---
 
-## 📈 Activity Graph
+## ACTIVITY GRAPH
 
 <div align="center">
 
@@ -216,7 +196,7 @@ With over **1 years** of experience in the industry, I specialize in modern web 
 
 ---
 
-## 💼 Featured Projects
+## FEATURED PROJECTS
 
 <div align="center">
 <table>
@@ -237,7 +217,7 @@ With over **1 years** of experience in the industry, I specialize in modern web 
 
 ---
 
-## 🤝 Let's Connect
+## LET'S CONNECT
 
 <div align="center">
 
