@@ -33,11 +33,5 @@
 
 <br/>
 
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-
-<br/>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:22c55e&height=100&section=footer&text=Built%20with%20obsession.%20Deployed%20with%20precision.%20Iterated%20without%20mercy.&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
