@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:22c55e,100:22c55e&height=200&section=header&text=GIRISH%20KOR&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Forging%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:0d47a1,100:0d47a1&height=200&section=header&text=GIRISH%20KOR&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Forging%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -9,10 +9,10 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=girish-kor&label=Visitors+Received&color=22c55e&style=flat-square)](https://github.com/girish-kor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-girish--kor-22c55e?style=flat-square&logo=linkedin&logoColor=22c55e)](https://linkedin.com/in/girish-kor)
-[![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-Publisher-22c55e?style=flat-square&logo=visual-studio-code&logoColor=22c55e)](https://marketplace.visualstudio.com/publishers/girish-kor)
-[![Website](https://img.shields.io/badge/Gazette-girishkor.dev-22c55e?style=flat-square&logo=firefox&logoColor=22c55e)](https://girishkor.dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=girish-kor&label=Visitors+Received&color=0d47a1&style=flat-square)](https://github.com/girish-kor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-girish--kor-0d47a1?style=flat-square&logo=linkedin&logoColor=0d47a1)](https://linkedin.com/in/girish-kor)
+[![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-Publisher-0d47a1?style=flat-square&logo=visual-studio-code&logoColor=0d47a1)](https://marketplace.visualstudio.com/publishers/girish-kor)
+[![Website](https://img.shields.io/badge/Gazette-girishkor.dev-0d47a1?style=flat-square&logo=firefox&logoColor=0d47a1)](https://girishkor.dev)
 
 
 </div>
@@ -33,5 +33,5 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:22c55e&height=100&section=footer&text=Built%20with%20obsession.%20Deployed%20with%20precision.%20Iterated%20without%20mercy.&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:0d47a1&height=100&section=footer&text=Built%20with%20obsession.%20Deployed%20with%20precision.%20Iterated%20without%20mercy.&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
