@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:0d47a1,100:0d47a1&height=200&section=header&text=GIRISH%20KOR&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Forging%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
