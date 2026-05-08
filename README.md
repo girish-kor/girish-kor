@@ -34,10 +34,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=girish-kor&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=girish-kor&theme=github_dark" alt="Most Commit Language" width="32%"/>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=girish-kor&bg_color=000000&color=CC0000&line=CC0000&point=ffffff&area=true&hide_border=false&border_color=CC0000)
+
 <br/>
-
 <img src="https://streak-stats.demolab.com?user=girish-kor&theme=github-dark&hide_border=true" alt="Streak Stats" width="100%"/>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:0d47a1&height=100&section=footer&text=Built%20with%20obsession.%20Deployed%20with%20precision.%20Iterated%20without%20mercy.&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
