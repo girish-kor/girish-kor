@@ -15,6 +15,13 @@
 [![Website](https://img.shields.io/badge/Gazette-girishkor.dev-0d47a1?style=flat-square&logo=firefox&logoColor=0d47a1)](https://girishkor.dev)
 
 
+[![Commits](https://img.shields.io/badge/COMMITS-2847-CC0000?style=for-the-badge&labelColor=000000&logo=git&logoColor=CC0000)](https://github.com/girish-kor)
+[![Stars](https://img.shields.io/badge/STARS-EARNED-CC0000?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/girish-kor)
+[![PRs](https://img.shields.io/badge/PULL_REQUESTS-MERGED-CC0000?style=for-the-badge&labelColor=000000)](https://github.com/girish-kor)
+[![Repos](https://img.shields.io/badge/REPOS-ACTIVE-CC0000?style=for-the-badge&labelColor=000000)](https://github.com/girish-kor)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=girish-kor&theme=darkhub&no-bg=true&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <div align="center">
