@@ -1,44 +1,21 @@
-<div align="center"> 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:0d47a1,100:0d47a1&height=200&section=header&text=GIRISH%20KOR&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Forging%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
-
-<br/>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&random=false&width=600&height=50&lines=Full+Stack+Developer+%E2%9C%A6;Prompt+Engineer+%E2%80%94+Architect+of+Tongues;npm+Package+Craftsman+%E2%80%94+Publisher+of+Wares;VS+Code+Extension+Builder+%E2%80%94+Toolsmith;No-Code+%2F+Low-Code+Artificer)](https://git.io/typing-svg)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=girish-kor&label=Visitors+Received&color=0d47a1&style=flat-square)](https://github.com/girish-kor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-girish--kor-0d47a1?style=flat-square&logo=linkedin&logoColor=0d47a1)](https://linkedin.com/in/girish-kor)
-[![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-Publisher-0d47a1?style=flat-square&logo=visual-studio-code&logoColor=0d47a1)](https://marketplace.visualstudio.com/publishers/girish-kor)
-[![Website](https://img.shields.io/badge/Gazette-girishkor.dev-0d47a1?style=flat-square&logo=firefox&logoColor=0d47a1)](https://girishkor.dev)
-
-
-[![Commits](https://img.shields.io/badge/COMMITS-2847-CC0000?style=for-the-badge&labelColor=000000&logo=git&logoColor=CC0000)](https://github.com/girish-kor)
-[![Stars](https://img.shields.io/badge/STARS-EARNED-CC0000?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/girish-kor)
-[![PRs](https://img.shields.io/badge/PULL_REQUESTS-MERGED-CC0000?style=for-the-badge&labelColor=000000)](https://github.com/girish-kor)
-[![Repos](https://img.shields.io/badge/REPOS-ACTIVE-CC0000?style=for-the-badge&labelColor=000000)](https://github.com/girish-kor)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=girish-kor&theme=darkhub&no-bg=true&no-frame=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=girish-kor&theme=github_dark" alt="Profile Details" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:1a1a1a&height=200&section=header&text=GIRISH%20KOR&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Building%20scalable%20systems%20with%20disciplined%20engineering&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-<br/>
+<img width="97.5%" src="https://github-profile-trophy.vercel.app/?username=girish-kor&theme=onestar&no-frame=true&column=8"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=girish-kor&theme=github_dark" alt="Repos per Language" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=girish-kor&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=girish-kor&theme=github_dark" alt="Most Commit Language" width="32%"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=girish-kor&theme=github_dark"/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=girish-kor&bg_color=000000&color=CC0000&line=CC0000&point=ffffff&area=true&hide_border=false&border_color=CC0000)
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=girish-kor&theme=github_dark"/>
 
-<br/>
-<img src="https://streak-stats.demolab.com?user=girish-kor&theme=github-dark&hide_border=true" alt="Streak Stats" width="100%"/>
-<br/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=girish-kor&theme=github_dark&utcOffset=5.5"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:0d47a1&height=100&section=footer&text=Built%20with%20obsession.%20Deployed%20with%20precision.%20Iterated%20without%20mercy.&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img width="58%" src="https://streak-stats.demolab.com?user=girish-kor&theme=highcontrast&hide_border=true"/>
+
+<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=girish-kor&theme=github_dark"/>
+
+<img width="97.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=girish-kor&theme=github_dark"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:1a1a1a&height=100&section=footer&text=Engineered%20with%20precision.%20Delivered%20with%20rigor.%20Continuously%20optimized.&fontSize=18&fontColor=FFFFFF&animation=fadeIn"/>
+
 </div>
