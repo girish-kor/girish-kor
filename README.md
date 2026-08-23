@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:1a1a1a&height=200&section=header&text=GIRISH%20KOR&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Building%20scalable%20systems%20with%20disciplined%20engineering&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <img width="97.5%" src="https://github-profile-trophy.vercel.app/?username=girish-kor&theme=onestar&no-frame=true&column=8"/>
